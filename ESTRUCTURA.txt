@@ -1,0 +1,7 @@
+Esto es la estructura inicial de la pantalla:
+    ______
+  /        \
+ |  ◉    ◉  |
+ |    ▿     |
+ |  \____/  |
+  \________/
