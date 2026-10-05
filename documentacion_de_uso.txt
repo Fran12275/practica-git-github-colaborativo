@@ -1,0 +1,72 @@
+## Documentación de uso
+
+### 1. Introducción
+
+Esta documentación explica de forma sencilla cómo utilizar la aplicación y las principales funcionalidades disponibles. Está dirigida a cualquier usuario que necesite utilizar el sistema, sin necesidad de tener conocimientos técnicos.
+
+### 2. Requisitos
+
+Para utilizar la aplicación es necesario disponer de:
+
+* Un ordenador o dispositivo compatible.
+* Conexión a Internet, si la aplicación utiliza servicios externos.
+* Un navegador web actualizado, en caso de tratarse de una aplicación web.
+* Una cuenta de usuario, si el sistema requiere autenticación.
+
+### 3. Acceso a la aplicación
+
+Al iniciar la aplicación, el usuario encontrará la pantalla principal. Desde ella podrá acceder a las diferentes funcionalidades disponibles.
+
+Si existe un sistema de autenticación, el usuario deberá introducir su correo electrónico y contraseña y pulsar el botón **“Iniciar sesión”**.
+
+Los nuevos usuarios podrán utilizar la opción **“Registrarse”** para crear una cuenta.
+
+### 4. Uso de las funcionalidades principales
+
+Una vez dentro de la aplicación, el usuario podrá navegar mediante el menú principal.
+
+Las acciones disponibles dependerán de las funcionalidades implementadas, pero normalmente incluyen:
+
+* Consultar información.
+* Crear nuevos registros.
+* Modificar información existente.
+* Eliminar registros.
+* Buscar elementos.
+* Consultar detalles.
+* Cerrar sesión.
+
+Para realizar una acción, el usuario deberá seleccionar la opción correspondiente y seguir las indicaciones mostradas en pantalla.
+
+### 5. Introducción de datos
+
+Los datos deben introducirse en los campos correspondientes. La aplicación puede realizar comprobaciones para evitar información incorrecta o incompleta.
+
+Cuando sea necesario, se mostrarán mensajes indicando el error y cómo corregirlo.
+
+### 6. Confirmación de acciones
+
+Antes de realizar acciones importantes, como eliminar información, la aplicación puede solicitar una confirmación al usuario para evitar operaciones accidentales.
+
+El usuario deberá seleccionar **“Confirmar”** para continuar o **“Cancelar”** para volver atrás.
+
+### 7. Cierre de sesión
+
+Para finalizar el uso de la aplicación, se recomienda cerrar sesión mediante la opción **“Cerrar sesión”** disponible en el menú de usuario.
+
+### 8. Resolución de problemas
+
+Si aparece un error durante el uso de la aplicación, se recomienda:
+
+1. Comprobar que los datos introducidos son correctos.
+2. Revisar la conexión a Internet.
+3. Recargar la aplicación.
+4. Volver a iniciar sesión.
+5. Si el problema continúa, contactar con el responsable de la aplicación.
+
+### 9. Recomendaciones de uso
+
+Para garantizar un funcionamiento adecuado se recomienda mantener actualizada la aplicación y utilizar contraseñas seguras. También es aconsejable cerrar correctamente la sesión cuando se utilice un dispositivo compartido.
+
+### 10. Conclusión
+
+La aplicación está diseñada para ofrecer un uso sencillo e intuitivo. Esta documentación proporciona las indicaciones básicas necesarias para acceder al sistema, utilizar sus funcionalidades principales y solucionar problemas habituales.
